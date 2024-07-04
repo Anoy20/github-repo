@@ -3,11 +3,11 @@
 }
 
 .hero {
-    background-image: url('../images/hero-image-1.jpg');
     height: 80%;
     padding-bottom: 300px;
     background-size: cover ;
     background-color:;
+    background-color: #4bc0ee;
 }
 nav>ul>li {
     display: inline;

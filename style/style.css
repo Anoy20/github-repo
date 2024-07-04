@@ -9,3 +9,19 @@
     background-size: cover ;
     background-color:;
 }
+nav>ul>li {
+    display: inline;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+nav>ul>li> a {
+    text-decoration: none;
+    color:#4BC0EE;
+    font-size: 30px;
+}
+nav>ul>li> a:hover {
+    color: #0b2e82;
+    text-decoration: underline;
+    transition: 0.2s;
+}
